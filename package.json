@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mjml": "^4.12.0"
+  },
+  "name": "email",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "mjml src/index.mjml --output src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

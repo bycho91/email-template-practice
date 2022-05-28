@@ -1,0 +1,79 @@
+<mjml>
+  <mj-body>
+    <mj-raw>
+      <!-- Company Header -->
+    </mj-raw>
+    <mj-section background-color='#f0f0f0'>
+      <mj-column width="">
+        <mj-text font-style='italic' font-size='20px' color='#626262'>
+          BENJAMIN LLC
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- IMAGE HEADER -->
+    </mj-raw>
+    <mj-section background-url='https://images.unsplash.com/photo-1653673891902-0a43d42c5e2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80' background-size='cover' background-repeat='no-repeat'>
+      <mj-column width="600px">
+        <mj-text align='center' color='#fff' font-size='40px' font-style='italic' font-family='Helvetica Neue'>
+          Travel Your Way
+        </mj-text>
+        <mj-button background-color='#f63a4d' href='#'>
+          Promotions
+        </mj-button>
+      </mj-column>
+      <mj-group>
+        <mj-column>
+          <mj-button>
+            See Places
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-button>
+            Enjoy Food
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color='#fafafa'>
+      <mj-column width='400px'>
+        <mj-text font-style='italic' font-size='20px' font-family='Helvetica Neue' color='#626262'>
+          Relax and Enjoy Yourself
+        </mj-text>
+        <mj-text color='#525252'>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus.
+          Sed eget nulla elit. Nulla aliquet mollis faucibus.
+        </mj-text>
+        <mj-button background-color='#F45E43' href='#' font-weight='bold'>
+          Learn More
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color='#ffffff'>
+      <mj-column>
+        <mj-image src="https://images.unsplash.com/photo-1468413253725-0d5181091126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="beach" />
+      </mj-column>
+      <mj-column padding-top='20px'>
+        <mj-text font-style='italic' font-size='20px' font-family='Helvetica Neue' color='#626262'>
+          Find Amazing Places
+        </mj-text>
+        <mj-text>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color='#fafafa'>
+      <mj-column>
+        <mj-image src="https://images.unsplash.com/photo-1525183995014-bd94c0750cd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80" alt="beach" border-radius='100px' />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmVhY2h8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="beach" border-radius='100px' />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://images.unsplash.com/photo-1506477331477-33d5d8b3dc85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJlYWNofGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="beach" border-radius='100px' />
+      </mj-column>
+
+    </mj-section>
+  </mj-body>
+</mjml>
